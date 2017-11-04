@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>rajproject Package</comment>
+<entry key="createdBy">piyushmalik</entry>
+<entry key="name">rajproject-content</entry>
+<entry key="created">2017-11-04T09:24:28.995+0530</entry>
+<entry key="groupId">rajproject</entry>
+<entry key="version">1.0-snapshot</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">rajprojectpackage</entry>
+<entry key="description">Maven Multimodule project for rajproject.</entry>
+<entry key="artifactId">rajproject-content</entry>
+<entry key="path">/etc/packages/rajprojectpackage/rajproject-content.zip</entry>
+</properties>
